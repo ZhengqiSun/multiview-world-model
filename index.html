@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b0d0c">
+  <meta name="description" content="A multi-view world model that generates coherent observations of one shared, evolving world.">
+  <meta property="og:title" content="Multiview World Model">
+  <meta property="og:description" content="Many viewpoints. One evolving reality.">
+  <meta property="og:type" content="website">
+  <title>Multiview World Model — One World, Many Views</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="nav" aria-label="Primary navigation">
+    <a class="wordmark" href="#top" aria-label="Multiview World Model home">
+      <span class="mark" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span>MVWM</span>
+    </a>
+    <nav>
+      <a href="#world">The world</a>
+      <a href="#demos">Demos</a>
+      <a href="#approach">Approach</a>
+    </nav>
+    <a class="nav-cta" href="#demos">Watch the demos <span aria-hidden="true">↘</span></a>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <video class="hero-video" autoplay muted loop playsinline preload="auto">
+        <source src="assets/video/ten-views.mp4" type="video/mp4">
+      </video>
+      <div class="hero-shade"></div>
+      <div class="hero-grid" aria-hidden="true"></div>
+      <div class="hero-content">
+        <p class="kicker light">Research release · 2026</p>
+        <h1 id="hero-title">Many viewpoints.<br><em>One evolving reality.</em></h1>
+        <p class="hero-copy">A world model that keeps every observer grounded in the same scene, the same moment, and the same unfolding world.</p>
+      </div>
+      <div class="hero-foot">
+        <span>10 simultaneous viewpoints</span>
+        <span class="live"><i></i> Generated world</span>
+        <a href="#world">Explore <span aria-hidden="true">↓</span></a>
+      </div>
+    </section>
+
+    <section class="manifesto section-pad" id="world">
+      <div class="section-index reveal"><span>01</span><span>The shared world</span></div>
+      <div class="manifesto-copy reveal">
+        <p class="display">A world is not a collection of videos. It is a <em>single state</em> that remains true from wherever you stand.</p>
+        <p class="support">Traditional video models imagine one camera at a time. Our model reasons about a shared environment, then generates each observation as a view into that same evolving reality.</p>
+      </div>
+      <div class="world-principles reveal">
+        <article><span>01</span><h3>Shared state</h3><p>Every viewpoint is conditioned on one coherent account of the world.</p></article>
+        <article><span>02</span><h3>Situated views</h3><p>Each observer sees a distinct perspective without breaking the shared scene.</p></article>
+        <article><span>03</span><h3>Persistent time</h3><p>The world carries its history forward instead of restarting at every clip.</p></article>
+      </div>
+    </section>
+
+    <section class="ten-view-feature" aria-label="Ten-view generation demo">
+      <div class="feature-heading reveal">
+        <p class="kicker">Ten views · One moment</p>
+        <h2>Co-presence,<br>made visible.</h2>
+        <p>Ten observers occupy one generated scene at the same instant. Every frame is different. The world behind them is the same.</p>
+      </div>
+      <figure class="wide-film reveal">
+        <video autoplay muted loop playsinline preload="metadata">
+          <source src="assets/video/ten-views.mp4" type="video/mp4">
+        </video>
+        <figcaption><span>01 / Simultaneous generation</span><span>Ten situated observers</span></figcaption>
+      </figure>
+    </section>
+
+    <section class="demo-section section-pad" id="demos">
+      <div class="section-index reveal"><span>02</span><span>Evidence in motion</span></div>
+      <div class="demo-intro reveal">
+        <h2>One event.<br>Two witnesses.</h2>
+        <p>These paired streams are generated from different viewpoints of the same scene. Play either side: both remain synchronized.</p>
+      </div>
+
+      <article class="sync-demo reveal" data-sync-group>
+        <div class="film-grid">
+          <div class="film"><video muted loop playsinline preload="metadata"><source src="assets/video/shared-scene-a.mp4" type="video/mp4"></video><span>Observer A</span></div>
+          <div class="film"><video muted loop playsinline preload="metadata"><source src="assets/video/shared-scene-b.mp4" type="video/mp4"></video><span>Observer B</span></div>
+        </div>
+        <div class="film-controls">
+          <button class="play-button" type="button" aria-label="Play synchronized scene"><span class="play-icon">▶</span><span class="pause-icon">Ⅱ</span></button>
+          <div><b>Shared geometry</b><span>Perspective changes. Spatial truth does not.</span></div>
+          <div class="timeline"><i></i></div>
+          <time>00:00</time>
+        </div>
+      </article>
+
+      <article class="sync-demo reveal" data-sync-group>
+        <div class="film-grid">
+          <div class="film"><video muted loop playsinline preload="metadata"><source src="assets/video/shared-motion-a.mp4" type="video/mp4"></video><span>Observer A</span></div>
+          <div class="film"><video muted loop playsinline preload="metadata"><source src="assets/video/shared-motion-b.mp4" type="video/mp4"></video><span>Observer B</span></div>
+        </div>
+        <div class="film-controls">
+          <button class="play-button" type="button" aria-label="Play synchronized motion"><span class="play-icon">▶</span><span class="pause-icon">Ⅱ</span></button>
+          <div><b>Shared motion</b><span>Actions remain legible across changing viewpoints.</span></div>
+          <div class="timeline"><i></i></div>
+          <time>00:00</time>
+        </div>
+      </article>
+    </section>
+
+    <section class="memory-section">
+      <div class="memory-copy reveal">
+        <p class="kicker light">Beyond the clip</p>
+        <h2>A world that<br><em>remembers.</em></h2>
+        <p>Generation continues through time while preserving the visual and spatial context established before. The result is not a sequence of disconnected shots, but one continuous experience.</p>
+        <button class="inline-play" type="button" data-video-toggle="memory-video"><span>▶</span> Play continuous generation</button>
+      </div>
+      <div class="memory-film reveal">
+        <video id="memory-video" muted loop playsinline preload="metadata">
+          <source src="assets/video/continuous-world.mp4" type="video/mp4">
+        </video>
+        <div class="film-label"><span>Continuous world generation</span><span>Persistent context</span></div>
+      </div>
+    </section>
+
+    <section class="approach section-pad" id="approach">
+      <div class="section-index reveal"><span>03</span><span>The idea</span></div>
+      <div class="approach-title reveal">
+        <p class="kicker">World first. Views second.</p>
+        <h2>Separate what happened<br>from who is looking.</h2>
+      </div>
+      <div class="system-map reveal" aria-label="Conceptual system diagram">
+        <div class="map-node inputs"><small>01</small><b>Situated actions</b><span>Multiple observers interact</span></div>
+        <div class="map-line"><i></i></div>
+        <div class="map-node core"><small>02</small><b>Shared world</b><span>One persistent evolving state</span><div class="orbit"><i></i><i></i><i></i></div></div>
+        <div class="map-line"><i></i></div>
+        <div class="map-node outputs"><small>03</small><b>Coherent views</b><span>Many grounded observations</span></div>
+      </div>
+      <div class="approach-note reveal">
+        <p>This factorization gives the model a stable object of prediction: not pixels in isolation, but a world that can be observed from anywhere.</p>
+        <p>It opens a path toward shared simulation for embodied agents, interactive media, and environments that continue to exist beyond any single camera.</p>
+      </div>
+    </section>
+
+    <section class="closing">
+      <video autoplay muted loop playsinline preload="metadata"><source src="assets/video/ten-views.mp4" type="video/mp4"></video>
+      <div class="closing-shade"></div>
+      <div class="closing-copy reveal">
+        <p class="kicker light">Multiview World Model</p>
+        <h2>One world is enough.<br><em>Everyone can enter.</em></h2>
+        <a href="#top">Return to the beginning <span aria-hidden="true">↑</span></a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <a class="wordmark" href="#top"><span class="mark" aria-hidden="true"><i></i><i></i><i></i></span><span>MVWM</span></a>
+    <p>Multi-view generative world modeling.</p>
+    <p>Research release · 2026</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
