@@ -27,5 +27,6 @@ Groups **04–07** are archived under
 [`assets/video/selected-20260905/`](assets/video/selected-20260905/README.md).
 The folder includes the four native-resolution review composites, the author's
 original selection notes, viewing guidance, view ordering, and provenance.
-These assets have not yet been inserted into the homepage. The paired Base
-comparison requested for group 06 is not included in this batch.
+The four clips are presented on the homepage in a compact “Selected studies”
+grid. The paired Base comparison requested for group 06 is not included in
+this batch.

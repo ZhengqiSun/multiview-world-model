@@ -19,10 +19,11 @@
     </a>
     <nav>
       <a href="#world">The world</a>
-      <a href="#demos">Demos</a>
+      <a href="#selected">Selected demos</a>
+      <a href="#demos">Paired demos</a>
       <a href="#approach">Approach</a>
     </nav>
-    <a class="nav-cta" href="#demos">Watch the demos <span aria-hidden="true">↘</span></a>
+    <a class="nav-cta" href="#selected">Watch latest demos <span aria-hidden="true">↘</span></a>
   </header>
 
   <main id="top">
@@ -91,8 +92,42 @@
       </figure>
     </section>
 
+    <section class="selected-section section-pad" id="selected" aria-labelledby="selected-title">
+      <div class="section-index reveal"><span>02</span><span>Selected studies</span></div>
+      <div class="selected-intro reveal">
+        <div>
+          <p class="kicker">Latest review cut · Groups 04–07</p>
+          <h2 id="selected-title">Look closer.</h2>
+        </div>
+        <p>Four short studies from the newest upload, arranged by the question each clip helps you inspect: shared space, player interaction, visibility, and motion across views.</p>
+      </div>
+      <div class="selected-grid">
+        <article class="selected-card selected-card-wide reveal">
+          <video autoplay muted loop playsinline preload="metadata"><source src="assets/video/selected-20260905/04-four-view-scene.mp4" type="video/mp4"></video>
+          <div class="selected-shade"></div>
+          <div class="selected-card-copy"><span class="selected-number">04</span><p class="selected-tag">Scene consistency</p><h3>Four views.<br>One layout.</h3><p class="selected-meta">Four synchronized observers · 5 sec</p></div>
+        </article>
+        <article class="selected-card reveal">
+          <video autoplay muted loop playsinline preload="metadata"><source src="assets/video/selected-20260905/07-dynamic-camera-three-views.mp4" type="video/mp4"></video>
+          <div class="selected-shade"></div>
+          <div class="selected-card-copy"><span class="selected-number">07</span><p class="selected-tag">Multiview motion</p><h3>Dynamic camera,<br>shared motion.</h3><p class="selected-meta">Three synchronized observers · 5 sec</p></div>
+        </article>
+        <article class="selected-card reveal">
+          <video autoplay muted loop playsinline preload="metadata"><source src="assets/video/selected-20260905/06-player-reveal-three-views.mp4" type="video/mp4"></video>
+          <div class="selected-shade"></div>
+          <div class="selected-card-copy"><span class="selected-number">06</span><p class="selected-tag">Visibility &amp; position</p><h3>From unseen<br>to seen.</h3><p class="selected-meta">Three views · 5 sec</p></div>
+        </article>
+        <article class="selected-card selected-card-wide selected-card-interaction reveal">
+          <video autoplay muted loop playsinline preload="metadata"><source src="assets/video/selected-20260905/05-player-tracking-and-firing.mp4" type="video/mp4"></video>
+          <div class="selected-shade"></div>
+          <div class="selected-card-copy"><span class="selected-number">05</span><p class="selected-tag">Interaction event</p><h3>Track the player.<br>Follow the action.</h3><p class="selected-meta">Single observer · 10 sec</p></div>
+        </article>
+      </div>
+      <p class="selected-note reveal">Curated qualitative studies from the 2026-09-05 upload. Checkpoint, seed, split, and viewing notes live in the <a href="assets/video/selected-20260905/README.md">selection archive</a>.</p>
+    </section>
+
     <section class="demo-section section-pad" id="demos">
-      <div class="section-index reveal"><span>02</span><span>Evidence in motion</span></div>
+      <div class="section-index reveal"><span>03</span><span>Evidence in motion</span></div>
       <div class="demo-intro reveal">
         <h2>One event.<br>Two witnesses.</h2>
         <p>These paired streams are generated from different viewpoints of the same scene. Play either side: both remain synchronized.</p>
@@ -141,7 +176,7 @@
     </section>
 
     <section class="approach section-pad" id="approach">
-      <div class="section-index reveal"><span>03</span><span>The idea</span></div>
+      <div class="section-index reveal"><span>04</span><span>The idea</span></div>
       <div class="approach-title reveal">
         <p class="kicker">World first. Views second.</p>
         <h2>Separate what happened<br>from who is looking.</h2>
