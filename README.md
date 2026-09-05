@@ -20,3 +20,12 @@ page-ready cut of the Scene 01 held-out multiscene run: 160 frames, 16 fps,
 scene. The source stitched render contained a duplicated window-seam frame;
 the published asset removes that seam so the browser video has an exact
 10-second duration.
+
+## Additional selected demos (2026-09-05)
+
+Groups **04–07** are archived under
+[`assets/video/selected-20260905/`](assets/video/selected-20260905/README.md).
+The folder includes the four native-resolution review composites, the author's
+original selection notes, viewing guidance, view ordering, and provenance.
+These assets have not yet been inserted into the homepage. The paired Base
+comparison requested for group 06 is not included in this batch.
