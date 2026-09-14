@@ -121,3 +121,7 @@ split 未确认；当前作为定性展示，不据此宣称 held-out 泛化。
 - 四组来自不同历史权重版本，不应统一标成某一当前 checkpoint 的增益。
 - 详细视角坐标、帧区间、版本、种子、数据划分与 SHA256 见 [manifest.json](manifest.json)。
 - 本批不包含 01–03、08、可选五视角重组、GT 成片或新 Base 对照；没有修改既有首页。
+
+## GT / Base / Ours 定性对比（2026-09-14）
+
+新增 [B带框视频与对比图表](qualitative-20260914/index.html)，详情见[素材说明](qualitative-20260914/README.md)。原04–07成片保留。

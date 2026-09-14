@@ -1,0 +1,305 @@
+{
+  "schema": 1,
+  "methods_allowed": [
+    "GT",
+    "Base",
+    "Ours"
+  ],
+  "video": {
+    "file": "B-GT-Base-Ours-boxed.mp4",
+    "frames": 81,
+    "fps": 16.0,
+    "size": [
+      1872,
+      1620
+    ],
+    "sha256": "f50e9aaf09283b28817c933dd9ec5750fcf41dcdf8fc42d544b3756fabba7984",
+    "method_rows": [
+      "GT",
+      "Base",
+      "Ours"
+    ],
+    "source_cells": 486,
+    "same_reference_boxes": true,
+    "no_new_inference": true
+  },
+  "figures": [
+    {
+      "id": "A",
+      "title": "Shared map geometry",
+      "methods": [
+        "GT",
+        "Base",
+        "Ours"
+      ],
+      "frames": [
+        0,
+        16,
+        32,
+        48,
+        64,
+        80
+      ],
+      "fps": 16,
+      "historical": false,
+      "images": [
+        "A-block-1.png",
+        "A-block-2.png"
+      ],
+      "full_image": "A-comparison.png",
+      "views": [
+        "T2/P0002",
+        "T2/P0004"
+      ]
+    },
+    {
+      "id": "B",
+      "title": "Other-player position and visibility",
+      "methods": [
+        "GT",
+        "Base",
+        "Ours"
+      ],
+      "frames": [
+        0,
+        16,
+        32,
+        48,
+        64,
+        80
+      ],
+      "fps": 16,
+      "historical": false,
+      "images": [
+        "B-block-1.png",
+        "B-block-2.png"
+      ],
+      "full_image": "B-comparison.png",
+      "views": [
+        "T3/P0004",
+        "T3/P0008"
+      ]
+    },
+    {
+      "id": "C",
+      "title": "Large camera turns and return rotation",
+      "methods": [
+        "GT",
+        "Base",
+        "Ours"
+      ],
+      "frames": [
+        0,
+        16,
+        32,
+        48,
+        64,
+        80
+      ],
+      "fps": 16,
+      "historical": false,
+      "images": [
+        "C-block-1.png",
+        "C-block-2.png"
+      ],
+      "full_image": "C-comparison.png",
+      "views": [
+        "T2/P0002",
+        "T2/P0005"
+      ]
+    },
+    {
+      "id": "D",
+      "title": "Supplement: approximately 165-degree turn",
+      "methods": [
+        "GT",
+        "Base",
+        "Ours"
+      ],
+      "frames": [
+        8,
+        16,
+        32,
+        48,
+        64,
+        80
+      ],
+      "fps": 16,
+      "historical": false,
+      "images": [
+        "D-block-1.png",
+        "D-block-2.png"
+      ],
+      "full_image": "D-comparison.png",
+      "views": [
+        "T2/P0002",
+        "T2/P0004"
+      ]
+    },
+    {
+      "id": "E",
+      "title": "Supplement: the first second of a rapid turn",
+      "methods": [
+        "GT",
+        "Base",
+        "Ours"
+      ],
+      "frames": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        80
+      ],
+      "fps": 16,
+      "historical": false,
+      "images": [
+        "E-block-1.png",
+        "E-block-2.png"
+      ],
+      "full_image": "E-comparison.png",
+      "views": [
+        "T3/P0005",
+        "T3/P0008"
+      ]
+    },
+    {
+      "id": "H",
+      "title": "Historical three-view camera reveal: player regions",
+      "methods": [
+        "GT",
+        "Ours"
+      ],
+      "frames": [
+        8,
+        12,
+        24,
+        33,
+        48,
+        80
+      ],
+      "fps": 16,
+      "historical": true,
+      "images": [
+        "H-block-1.png",
+        "H-block-2.png"
+      ],
+      "full_image": "H-comparison.png",
+      "views": [
+        "T2/P0003",
+        "T2/P0006",
+        "T2/P0011"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "file": "A-block-1.png",
+      "bytes": 2243719,
+      "sha256": "e60c52e6d510f2853d3c35bfbc2b57f5c2d85a9b6bf02949bea69c8e87c30070"
+    },
+    {
+      "file": "A-block-2.png",
+      "bytes": 3857785,
+      "sha256": "c2a9b6c2f0f8bbb3d431c93851065b273f831a8f02eed01a2db3f8d917bc2389"
+    },
+    {
+      "file": "A-comparison.png",
+      "bytes": 6102301,
+      "sha256": "cbff5a40371bcad89d3471f504c72b4bbf8aebd39cfe72332780226c02610b35"
+    },
+    {
+      "file": "B-block-1.png",
+      "bytes": 3096699,
+      "sha256": "6ed485b318dbdb45f9d7482e3b51536087b9e67ddeb64b5c6db053b4eb39511e"
+    },
+    {
+      "file": "B-block-2.png",
+      "bytes": 3155941,
+      "sha256": "4e66fd875e1af2b73e9b80807b6063a3a9df02e408d3ceaafdb2638377147cf8"
+    },
+    {
+      "file": "B-comparison.png",
+      "bytes": 6252911,
+      "sha256": "d9c863d438d03844b64874268ccaef899cf5af99206a43eee7ddf5de612da525"
+    },
+    {
+      "file": "B-GT-Base-Ours-boxed.mp4",
+      "bytes": 11838096,
+      "sha256": "f50e9aaf09283b28817c933dd9ec5750fcf41dcdf8fc42d544b3756fabba7984"
+    },
+    {
+      "file": "C-block-1.png",
+      "bytes": 3248991,
+      "sha256": "2fbfb0c6f4f85f0298c035c8f38cbcfd10bc311fe6bb6f184e7234bf201e01c4"
+    },
+    {
+      "file": "C-block-2.png",
+      "bytes": 2833525,
+      "sha256": "229529b68a0bb3c86c875b45e77fd46663eb483a9243e68d79a863b51f134f15"
+    },
+    {
+      "file": "C-comparison.png",
+      "bytes": 6082161,
+      "sha256": "73335c1fae929efc38f905847ac2007e7f2d97a74e23cf9348a0d8397118d8a4"
+    },
+    {
+      "file": "D-block-1.png",
+      "bytes": 2104760,
+      "sha256": "32b1c893fa5149b7e93bb562b85da0a2e53a662be53b080496256d71acb58045"
+    },
+    {
+      "file": "D-block-2.png",
+      "bytes": 2838139,
+      "sha256": "f251d914a5b4b52b635cf94bcc01dc11a3c1fb13434155a838af14d3094b5868"
+    },
+    {
+      "file": "D-comparison.png",
+      "bytes": 4944715,
+      "sha256": "cb305c10fb569fe55c87795282b7364a66c726a64f2a2bd97e44fa35e31e737e"
+    },
+    {
+      "file": "E-block-1.png",
+      "bytes": 2477366,
+      "sha256": "dcd8a7bc2f98cfa554d21858a496ced6e2858c62546674823d927dc848b4223f"
+    },
+    {
+      "file": "E-block-2.png",
+      "bytes": 2686492,
+      "sha256": "4b8c7541865fb2348878d409c760e5002a539d6500827a10621569dd3154bb20"
+    },
+    {
+      "file": "E-comparison.png",
+      "bytes": 5164859,
+      "sha256": "01cf6e03623e4d0ced384544cbf0c8ee7fdb5bee2f79c7b0a76ab62df70fe79c"
+    },
+    {
+      "file": "H-block-1.png",
+      "bytes": 2934392,
+      "sha256": "6265960417c11ac715d23d52a32496e2d1a7b1276639f95586601311b5a40177"
+    },
+    {
+      "file": "H-block-2.png",
+      "bytes": 2845152,
+      "sha256": "7e25fd63e5edeee76aab968bbb2c892435118d61ea43a139a4eccc270f8f0c46"
+    },
+    {
+      "file": "H-comparison.png",
+      "bytes": 5779188,
+      "sha256": "fda24eca97e9eddc3850740360a678e81e01f8b548cc7ed961efcfbcd46f61c9"
+    },
+    {
+      "file": "index.html",
+      "bytes": 5019,
+      "sha256": "2cb2203f08b8eeae33b2521a1ac3480d3b824d572367cb92dd6d59ffdef99b6c"
+    },
+    {
+      "file": "README.md",
+      "bytes": 2058,
+      "sha256": "3db485bb65bbd75af331b4e821fafdc0c94e90a9453e2f53ced8a546a153f80d"
+    }
+  ],
+  "post_hoc_selection": true,
+  "new_inference": false
+}
