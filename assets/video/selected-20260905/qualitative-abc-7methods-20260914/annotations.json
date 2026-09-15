@@ -1,0 +1,6470 @@
+[
+  {
+    "frame_path": "A_map_geometry/frames/00_gt/t2_p0002/A_00_gt_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/00_gt/t2_p0004/A_00_gt_T2-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/00_gt/t2_p0002/A_00_gt_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          68.0,
+          491.0,
+          292.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        348.0,
+        58.0,
+        503.0,
+        302.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        348,
+        58,
+        503,
+        302
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/00_gt/t2_p0004/A_00_gt_T2-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          267.0,
+          40.0,
+          430.0,
+          327.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        255.0,
+        30.0,
+        442.0,
+        337.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        255,
+        30,
+        442,
+        337
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/00_gt/t2_p0002/A_00_gt_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/00_gt/t2_p0004/A_00_gt_T2-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/01_lingbot_base/t2_p0002/A_01_lingbot_base_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/01_lingbot_base/t2_p0004/A_01_lingbot_base_T2-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/01_lingbot_base/t2_p0002/A_01_lingbot_base_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          68.0,
+          491.0,
+          292.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        348.0,
+        58.0,
+        503.0,
+        302.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        348,
+        58,
+        503,
+        302
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/01_lingbot_base/t2_p0004/A_01_lingbot_base_T2-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          267.0,
+          40.0,
+          430.0,
+          327.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        255.0,
+        30.0,
+        442.0,
+        337.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        255,
+        30,
+        442,
+        337
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/01_lingbot_base/t2_p0002/A_01_lingbot_base_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/01_lingbot_base/t2_p0004/A_01_lingbot_base_T2-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/02_direct_residual_b1/t2_p0002/A_02_direct_residual_b1_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/02_direct_residual_b1/t2_p0004/A_02_direct_residual_b1_T2-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/02_direct_residual_b1/t2_p0002/A_02_direct_residual_b1_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          68.0,
+          491.0,
+          292.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        348.0,
+        58.0,
+        503.0,
+        302.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        348,
+        58,
+        503,
+        302
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/02_direct_residual_b1/t2_p0004/A_02_direct_residual_b1_T2-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          267.0,
+          40.0,
+          430.0,
+          327.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        255.0,
+        30.0,
+        442.0,
+        337.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        255,
+        30,
+        442,
+        337
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/02_direct_residual_b1/t2_p0002/A_02_direct_residual_b1_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/02_direct_residual_b1/t2_p0004/A_02_direct_residual_b1_T2-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/03_vid2world/t2_p0002/A_03_vid2world_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/03_vid2world/t2_p0004/A_03_vid2world_T2-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/03_vid2world/t2_p0002/A_03_vid2world_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          68.0,
+          491.0,
+          292.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        348.0,
+        58.0,
+        503.0,
+        302.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        348,
+        58,
+        503,
+        302
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/03_vid2world/t2_p0004/A_03_vid2world_T2-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          267.0,
+          40.0,
+          430.0,
+          327.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        255.0,
+        30.0,
+        442.0,
+        337.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        255,
+        30,
+        442,
+        337
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/03_vid2world/t2_p0002/A_03_vid2world_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/03_vid2world/t2_p0004/A_03_vid2world_T2-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/04_multiworld/t2_p0002/A_04_multiworld_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/04_multiworld/t2_p0004/A_04_multiworld_T2-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/04_multiworld/t2_p0002/A_04_multiworld_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          68.0,
+          491.0,
+          292.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        348.0,
+        58.0,
+        503.0,
+        302.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        348,
+        58,
+        503,
+        302
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/04_multiworld/t2_p0004/A_04_multiworld_T2-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          267.0,
+          40.0,
+          430.0,
+          327.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        255.0,
+        30.0,
+        442.0,
+        337.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        255,
+        30,
+        442,
+        337
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/04_multiworld/t2_p0002/A_04_multiworld_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/04_multiworld/t2_p0004/A_04_multiworld_T2-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/05_solaris_minecraft/t2_p0002/A_05_solaris_minecraft_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/05_solaris_minecraft/t2_p0004/A_05_solaris_minecraft_T2-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/05_solaris_minecraft/t2_p0002/A_05_solaris_minecraft_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          68.0,
+          491.0,
+          292.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        348.0,
+        58.0,
+        503.0,
+        302.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        348,
+        58,
+        503,
+        302
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/05_solaris_minecraft/t2_p0004/A_05_solaris_minecraft_T2-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          267.0,
+          40.0,
+          430.0,
+          327.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        255.0,
+        30.0,
+        442.0,
+        337.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        255,
+        30,
+        442,
+        337
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/05_solaris_minecraft/t2_p0002/A_05_solaris_minecraft_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/05_solaris_minecraft/t2_p0004/A_05_solaris_minecraft_T2-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/06_ours/t2_p0002/A_06_ours_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/06_ours/t2_p0004/A_06_ours_T2-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/06_ours/t2_p0002/A_06_ours_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          68.0,
+          491.0,
+          292.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        348.0,
+        58.0,
+        503.0,
+        302.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        348,
+        58,
+        503,
+        302
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/06_ours/t2_p0004/A_06_ours_T2-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          267.0,
+          40.0,
+          430.0,
+          327.0
+        ],
+        "label": "L1 region",
+        "color": "#0891b2"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        255.0,
+        30.0,
+        442.0,
+        337.0
+      ],
+      "label": "L1 GT-defined region",
+      "effective_crop_xyxy": [
+        255,
+        30,
+        442,
+        337
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/06_ours/t2_p0002/A_06_ours_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/06_ours/t2_p0004/A_06_ours_T2-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/00_gt/t2_p0002/A_00_gt_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          126.0,
+          129.0,
+          276.0,
+          280.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        114.0,
+        119.0,
+        288.0,
+        290.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        114,
+        119,
+        288,
+        290
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/00_gt/t2_p0004/A_00_gt_T2-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          93.0,
+          13.0,
+          316.0,
+          294.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        81.0,
+        3.0,
+        328.0,
+        304.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        81,
+        3,
+        328,
+        304
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/00_gt/t2_p0002/A_00_gt_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          249.0,
+          39.0,
+          384.0,
+          241.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        237.0,
+        29.0,
+        396.0,
+        251.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        237,
+        29,
+        396,
+        251
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/00_gt/t2_p0004/A_00_gt_T2-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          0.0,
+          479.0,
+          283.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        198.0,
+        0.0,
+        491.0,
+        293.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        198,
+        0,
+        491,
+        293
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/00_gt/t2_p0002/A_00_gt_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/00_gt/t2_p0004/A_00_gt_T2-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          33.0,
+          0.0,
+          747.0,
+          368.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        21.0,
+        0.0,
+        759.0,
+        378.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        21,
+        0,
+        759,
+        378
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/01_lingbot_base/t2_p0002/A_01_lingbot_base_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          126.0,
+          129.0,
+          276.0,
+          280.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        114.0,
+        119.0,
+        288.0,
+        290.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        114,
+        119,
+        288,
+        290
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/01_lingbot_base/t2_p0004/A_01_lingbot_base_T2-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          93.0,
+          13.0,
+          316.0,
+          294.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        81.0,
+        3.0,
+        328.0,
+        304.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        81,
+        3,
+        328,
+        304
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/01_lingbot_base/t2_p0002/A_01_lingbot_base_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          249.0,
+          39.0,
+          384.0,
+          241.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        237.0,
+        29.0,
+        396.0,
+        251.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        237,
+        29,
+        396,
+        251
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/01_lingbot_base/t2_p0004/A_01_lingbot_base_T2-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          0.0,
+          479.0,
+          283.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        198.0,
+        0.0,
+        491.0,
+        293.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        198,
+        0,
+        491,
+        293
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/01_lingbot_base/t2_p0002/A_01_lingbot_base_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/01_lingbot_base/t2_p0004/A_01_lingbot_base_T2-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          33.0,
+          0.0,
+          747.0,
+          368.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        21.0,
+        0.0,
+        759.0,
+        378.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        21,
+        0,
+        759,
+        378
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/02_direct_residual_b1/t2_p0002/A_02_direct_residual_b1_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          126.0,
+          129.0,
+          276.0,
+          280.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        114.0,
+        119.0,
+        288.0,
+        290.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        114,
+        119,
+        288,
+        290
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/02_direct_residual_b1/t2_p0004/A_02_direct_residual_b1_T2-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          93.0,
+          13.0,
+          316.0,
+          294.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        81.0,
+        3.0,
+        328.0,
+        304.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        81,
+        3,
+        328,
+        304
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/02_direct_residual_b1/t2_p0002/A_02_direct_residual_b1_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          249.0,
+          39.0,
+          384.0,
+          241.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        237.0,
+        29.0,
+        396.0,
+        251.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        237,
+        29,
+        396,
+        251
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/02_direct_residual_b1/t2_p0004/A_02_direct_residual_b1_T2-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          0.0,
+          479.0,
+          283.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        198.0,
+        0.0,
+        491.0,
+        293.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        198,
+        0,
+        491,
+        293
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/02_direct_residual_b1/t2_p0002/A_02_direct_residual_b1_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/02_direct_residual_b1/t2_p0004/A_02_direct_residual_b1_T2-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          33.0,
+          0.0,
+          747.0,
+          368.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        21.0,
+        0.0,
+        759.0,
+        378.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        21,
+        0,
+        759,
+        378
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/03_vid2world/t2_p0002/A_03_vid2world_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          126.0,
+          129.0,
+          276.0,
+          280.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        114.0,
+        119.0,
+        288.0,
+        290.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        114,
+        119,
+        288,
+        290
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/03_vid2world/t2_p0004/A_03_vid2world_T2-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          93.0,
+          13.0,
+          316.0,
+          294.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        81.0,
+        3.0,
+        328.0,
+        304.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        81,
+        3,
+        328,
+        304
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/03_vid2world/t2_p0002/A_03_vid2world_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          249.0,
+          39.0,
+          384.0,
+          241.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        237.0,
+        29.0,
+        396.0,
+        251.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        237,
+        29,
+        396,
+        251
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/03_vid2world/t2_p0004/A_03_vid2world_T2-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          0.0,
+          479.0,
+          283.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        198.0,
+        0.0,
+        491.0,
+        293.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        198,
+        0,
+        491,
+        293
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/03_vid2world/t2_p0002/A_03_vid2world_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/03_vid2world/t2_p0004/A_03_vid2world_T2-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          33.0,
+          0.0,
+          747.0,
+          368.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        21.0,
+        0.0,
+        759.0,
+        378.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        21,
+        0,
+        759,
+        378
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/04_multiworld/t2_p0002/A_04_multiworld_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          126.0,
+          129.0,
+          276.0,
+          280.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        114.0,
+        119.0,
+        288.0,
+        290.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        114,
+        119,
+        288,
+        290
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/04_multiworld/t2_p0004/A_04_multiworld_T2-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          93.0,
+          13.0,
+          316.0,
+          294.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        81.0,
+        3.0,
+        328.0,
+        304.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        81,
+        3,
+        328,
+        304
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/04_multiworld/t2_p0002/A_04_multiworld_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          249.0,
+          39.0,
+          384.0,
+          241.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        237.0,
+        29.0,
+        396.0,
+        251.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        237,
+        29,
+        396,
+        251
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/04_multiworld/t2_p0004/A_04_multiworld_T2-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          0.0,
+          479.0,
+          283.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        198.0,
+        0.0,
+        491.0,
+        293.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        198,
+        0,
+        491,
+        293
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/04_multiworld/t2_p0002/A_04_multiworld_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/04_multiworld/t2_p0004/A_04_multiworld_T2-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          33.0,
+          0.0,
+          747.0,
+          368.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        21.0,
+        0.0,
+        759.0,
+        378.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        21,
+        0,
+        759,
+        378
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/05_solaris_minecraft/t2_p0002/A_05_solaris_minecraft_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          126.0,
+          129.0,
+          276.0,
+          280.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        114.0,
+        119.0,
+        288.0,
+        290.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        114,
+        119,
+        288,
+        290
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/05_solaris_minecraft/t2_p0004/A_05_solaris_minecraft_T2-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          93.0,
+          13.0,
+          316.0,
+          294.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        81.0,
+        3.0,
+        328.0,
+        304.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        81,
+        3,
+        328,
+        304
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/05_solaris_minecraft/t2_p0002/A_05_solaris_minecraft_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          249.0,
+          39.0,
+          384.0,
+          241.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        237.0,
+        29.0,
+        396.0,
+        251.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        237,
+        29,
+        396,
+        251
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/05_solaris_minecraft/t2_p0004/A_05_solaris_minecraft_T2-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          0.0,
+          479.0,
+          283.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        198.0,
+        0.0,
+        491.0,
+        293.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        198,
+        0,
+        491,
+        293
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/05_solaris_minecraft/t2_p0002/A_05_solaris_minecraft_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/05_solaris_minecraft/t2_p0004/A_05_solaris_minecraft_T2-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          33.0,
+          0.0,
+          747.0,
+          368.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        21.0,
+        0.0,
+        759.0,
+        378.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        21,
+        0,
+        759,
+        378
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/06_ours/t2_p0002/A_06_ours_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          126.0,
+          129.0,
+          276.0,
+          280.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        114.0,
+        119.0,
+        288.0,
+        290.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        114,
+        119,
+        288,
+        290
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/06_ours/t2_p0004/A_06_ours_T2-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          93.0,
+          13.0,
+          316.0,
+          294.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        81.0,
+        3.0,
+        328.0,
+        304.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        81,
+        3,
+        328,
+        304
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/06_ours/t2_p0002/A_06_ours_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          249.0,
+          39.0,
+          384.0,
+          241.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        237.0,
+        29.0,
+        396.0,
+        251.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        237,
+        29,
+        396,
+        251
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/06_ours/t2_p0004/A_06_ours_T2-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          0.0,
+          479.0,
+          283.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        198.0,
+        0.0,
+        491.0,
+        293.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        198,
+        0,
+        491,
+        293
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/06_ours/t2_p0002/A_06_ours_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "A_map_geometry/frames/06_ours/t2_p0004/A_06_ours_T2-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          33.0,
+          0.0,
+          747.0,
+          368.0
+        ],
+        "label": "L2 region",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        21.0,
+        0.0,
+        759.0,
+        378.0
+      ],
+      "label": "L2 GT-defined region",
+      "effective_crop_xyxy": [
+        21,
+        0,
+        759,
+        378
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/00_gt/t3_p0004/B_00_gt_T3-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/00_gt/t3_p0008/B_00_gt_T3-P0008_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/00_gt/t3_p0004/B_00_gt_T3-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/00_gt/t3_p0008/B_00_gt_T3-P0008_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          13.0,
+          190.0,
+          157.0,
+          428.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        170.0,
+        181.0,
+        448.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        170,
+        181,
+        448
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/00_gt/t3_p0004/B_00_gt_T3-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/00_gt/t3_p0008/B_00_gt_T3-P0008_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          0.0,
+          185.0,
+          128.0,
+          435.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        165.0,
+        152.0,
+        455.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        165,
+        152,
+        455
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/01_lingbot_base/t3_p0004/B_01_lingbot_base_T3-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/01_lingbot_base/t3_p0008/B_01_lingbot_base_T3-P0008_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/01_lingbot_base/t3_p0004/B_01_lingbot_base_T3-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/01_lingbot_base/t3_p0008/B_01_lingbot_base_T3-P0008_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          13.0,
+          190.0,
+          157.0,
+          428.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        170.0,
+        181.0,
+        448.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        170,
+        181,
+        448
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/01_lingbot_base/t3_p0004/B_01_lingbot_base_T3-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/01_lingbot_base/t3_p0008/B_01_lingbot_base_T3-P0008_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          0.0,
+          185.0,
+          128.0,
+          435.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        165.0,
+        152.0,
+        455.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        165,
+        152,
+        455
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/02_direct_residual_b1/t3_p0004/B_02_direct_residual_b1_T3-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/02_direct_residual_b1/t3_p0008/B_02_direct_residual_b1_T3-P0008_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/02_direct_residual_b1/t3_p0004/B_02_direct_residual_b1_T3-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/02_direct_residual_b1/t3_p0008/B_02_direct_residual_b1_T3-P0008_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          13.0,
+          190.0,
+          157.0,
+          428.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        170.0,
+        181.0,
+        448.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        170,
+        181,
+        448
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/02_direct_residual_b1/t3_p0004/B_02_direct_residual_b1_T3-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/02_direct_residual_b1/t3_p0008/B_02_direct_residual_b1_T3-P0008_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          0.0,
+          185.0,
+          128.0,
+          435.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        165.0,
+        152.0,
+        455.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        165,
+        152,
+        455
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/03_vid2world/t3_p0004/B_03_vid2world_T3-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/03_vid2world/t3_p0008/B_03_vid2world_T3-P0008_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/03_vid2world/t3_p0004/B_03_vid2world_T3-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/03_vid2world/t3_p0008/B_03_vid2world_T3-P0008_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          13.0,
+          190.0,
+          157.0,
+          428.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        170.0,
+        181.0,
+        448.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        170,
+        181,
+        448
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/03_vid2world/t3_p0004/B_03_vid2world_T3-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/03_vid2world/t3_p0008/B_03_vid2world_T3-P0008_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          0.0,
+          185.0,
+          128.0,
+          435.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        165.0,
+        152.0,
+        455.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        165,
+        152,
+        455
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/04_multiworld/t3_p0004/B_04_multiworld_T3-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/04_multiworld/t3_p0008/B_04_multiworld_T3-P0008_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/04_multiworld/t3_p0004/B_04_multiworld_T3-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/04_multiworld/t3_p0008/B_04_multiworld_T3-P0008_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          13.0,
+          190.0,
+          157.0,
+          428.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        170.0,
+        181.0,
+        448.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        170,
+        181,
+        448
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/04_multiworld/t3_p0004/B_04_multiworld_T3-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/04_multiworld/t3_p0008/B_04_multiworld_T3-P0008_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          0.0,
+          185.0,
+          128.0,
+          435.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        165.0,
+        152.0,
+        455.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        165,
+        152,
+        455
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/05_solaris_minecraft/t3_p0004/B_05_solaris_minecraft_T3-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/05_solaris_minecraft/t3_p0008/B_05_solaris_minecraft_T3-P0008_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/05_solaris_minecraft/t3_p0004/B_05_solaris_minecraft_T3-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/05_solaris_minecraft/t3_p0008/B_05_solaris_minecraft_T3-P0008_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          13.0,
+          190.0,
+          157.0,
+          428.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        170.0,
+        181.0,
+        448.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        170,
+        181,
+        448
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/05_solaris_minecraft/t3_p0004/B_05_solaris_minecraft_T3-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/05_solaris_minecraft/t3_p0008/B_05_solaris_minecraft_T3-P0008_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          0.0,
+          185.0,
+          128.0,
+          435.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        165.0,
+        152.0,
+        455.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        165,
+        152,
+        455
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/06_ours/t3_p0004/B_06_ours_T3-P0004_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/06_ours/t3_p0008/B_06_ours_T3-P0008_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/06_ours/t3_p0004/B_06_ours_T3-P0004_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/06_ours/t3_p0008/B_06_ours_T3-P0008_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          13.0,
+          190.0,
+          157.0,
+          428.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        170.0,
+        181.0,
+        448.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        170,
+        181,
+        448
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/06_ours/t3_p0004/B_06_ours_T3-P0004_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          563.0,
+          211.0,
+          655.0,
+          380.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        539.0,
+        191.0,
+        679.0,
+        400.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        539,
+        191,
+        679,
+        400
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/06_ours/t3_p0008/B_06_ours_T3-P0008_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          0.0,
+          185.0,
+          128.0,
+          435.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        0.0,
+        165.0,
+        152.0,
+        455.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        0,
+        165,
+        152,
+        455
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/00_gt/t3_p0004/B_00_gt_T3-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          752.0,
+          213.0,
+          832.0,
+          439.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        728.0,
+        193.0,
+        832.0,
+        459.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        728,
+        193,
+        832,
+        459
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/00_gt/t3_p0008/B_00_gt_T3-P0008_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/00_gt/t3_p0004/B_00_gt_T3-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/00_gt/t3_p0008/B_00_gt_T3-P0008_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/00_gt/t3_p0004/B_00_gt_T3-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/00_gt/t3_p0008/B_00_gt_T3-P0008_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/01_lingbot_base/t3_p0004/B_01_lingbot_base_T3-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          752.0,
+          213.0,
+          832.0,
+          439.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        728.0,
+        193.0,
+        832.0,
+        459.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        728,
+        193,
+        832,
+        459
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/01_lingbot_base/t3_p0008/B_01_lingbot_base_T3-P0008_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/01_lingbot_base/t3_p0004/B_01_lingbot_base_T3-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/01_lingbot_base/t3_p0008/B_01_lingbot_base_T3-P0008_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/01_lingbot_base/t3_p0004/B_01_lingbot_base_T3-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/01_lingbot_base/t3_p0008/B_01_lingbot_base_T3-P0008_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/02_direct_residual_b1/t3_p0004/B_02_direct_residual_b1_T3-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          752.0,
+          213.0,
+          832.0,
+          439.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        728.0,
+        193.0,
+        832.0,
+        459.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        728,
+        193,
+        832,
+        459
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/02_direct_residual_b1/t3_p0008/B_02_direct_residual_b1_T3-P0008_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/02_direct_residual_b1/t3_p0004/B_02_direct_residual_b1_T3-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/02_direct_residual_b1/t3_p0008/B_02_direct_residual_b1_T3-P0008_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/02_direct_residual_b1/t3_p0004/B_02_direct_residual_b1_T3-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/02_direct_residual_b1/t3_p0008/B_02_direct_residual_b1_T3-P0008_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/03_vid2world/t3_p0004/B_03_vid2world_T3-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          752.0,
+          213.0,
+          832.0,
+          439.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        728.0,
+        193.0,
+        832.0,
+        459.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        728,
+        193,
+        832,
+        459
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/03_vid2world/t3_p0008/B_03_vid2world_T3-P0008_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/03_vid2world/t3_p0004/B_03_vid2world_T3-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/03_vid2world/t3_p0008/B_03_vid2world_T3-P0008_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/03_vid2world/t3_p0004/B_03_vid2world_T3-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/03_vid2world/t3_p0008/B_03_vid2world_T3-P0008_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/04_multiworld/t3_p0004/B_04_multiworld_T3-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          752.0,
+          213.0,
+          832.0,
+          439.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        728.0,
+        193.0,
+        832.0,
+        459.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        728,
+        193,
+        832,
+        459
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/04_multiworld/t3_p0008/B_04_multiworld_T3-P0008_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/04_multiworld/t3_p0004/B_04_multiworld_T3-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/04_multiworld/t3_p0008/B_04_multiworld_T3-P0008_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/04_multiworld/t3_p0004/B_04_multiworld_T3-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/04_multiworld/t3_p0008/B_04_multiworld_T3-P0008_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/05_solaris_minecraft/t3_p0004/B_05_solaris_minecraft_T3-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          752.0,
+          213.0,
+          832.0,
+          439.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        728.0,
+        193.0,
+        832.0,
+        459.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        728,
+        193,
+        832,
+        459
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/05_solaris_minecraft/t3_p0008/B_05_solaris_minecraft_T3-P0008_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/05_solaris_minecraft/t3_p0004/B_05_solaris_minecraft_T3-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/05_solaris_minecraft/t3_p0008/B_05_solaris_minecraft_T3-P0008_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/05_solaris_minecraft/t3_p0004/B_05_solaris_minecraft_T3-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/05_solaris_minecraft/t3_p0008/B_05_solaris_minecraft_T3-P0008_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/06_ours/t3_p0004/B_06_ours_T3-P0004_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          752.0,
+          213.0,
+          832.0,
+          439.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        728.0,
+        193.0,
+        832.0,
+        459.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        728,
+        193,
+        832,
+        459
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/06_ours/t3_p0008/B_06_ours_T3-P0008_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/06_ours/t3_p0004/B_06_ours_T3-P0004_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/06_ours/t3_p0008/B_06_ours_T3-P0008_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/06_ours/t3_p0004/B_06_ours_T3-P0004_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          745.0,
+          213.0,
+          832.0,
+          436.0
+        ],
+        "label": "T1 reference",
+        "color": "#d97706"
+      }
+    ],
+    "roi": {
+      "xyxy": [
+        721.0,
+        193.0,
+        832.0,
+        456.0
+      ],
+      "label": "T1 reference region",
+      "effective_crop_xyxy": [
+        721,
+        193,
+        832,
+        456
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "B_player_visibility/frames/06_ours/t3_p0008/B_06_ours_T3-P0008_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": {
+      "xyxy": [
+        0.0,
+        150.0,
+        170.0,
+        470.0
+      ],
+      "label": "T1 outside left FOV",
+      "effective_crop_xyxy": [
+        0,
+        150,
+        170,
+        470
+      ]
+    },
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/00_gt/t2_p0002/C_00_gt_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/00_gt/t2_p0005/C_00_gt_T2-P0005_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/00_gt/t2_p0002/C_00_gt_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          432.0,
+          281.0,
+          479.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          502.0,
+          247.0,
+          532.0,
+          292.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/00_gt/t2_p0005/C_00_gt_T2-P0005_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          550.0,
+          311.0,
+          674.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          391.0,
+          296.0,
+          430.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          414.0,
+          272.0,
+          438.0,
+          306.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/00_gt/t2_p0002/C_00_gt_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          208.0,
+          350.0,
+          295.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          482.0,
+          355.0,
+          515.0,
+          410.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/00_gt/t2_p0005/C_00_gt_T2-P0005_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          242.0,
+          396.0,
+          317.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          416.0,
+          247.0,
+          441.0,
+          282.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          609.0,
+          295.0,
+          704.0,
+          419.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/01_lingbot_base/t2_p0002/C_01_lingbot_base_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/01_lingbot_base/t2_p0005/C_01_lingbot_base_T2-P0005_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/01_lingbot_base/t2_p0002/C_01_lingbot_base_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          432.0,
+          281.0,
+          479.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          502.0,
+          247.0,
+          532.0,
+          292.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/01_lingbot_base/t2_p0005/C_01_lingbot_base_T2-P0005_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          550.0,
+          311.0,
+          674.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          391.0,
+          296.0,
+          430.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          414.0,
+          272.0,
+          438.0,
+          306.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/01_lingbot_base/t2_p0002/C_01_lingbot_base_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          208.0,
+          350.0,
+          295.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          482.0,
+          355.0,
+          515.0,
+          410.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/01_lingbot_base/t2_p0005/C_01_lingbot_base_T2-P0005_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          242.0,
+          396.0,
+          317.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          416.0,
+          247.0,
+          441.0,
+          282.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          609.0,
+          295.0,
+          704.0,
+          419.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/02_direct_residual_b1/t2_p0002/C_02_direct_residual_b1_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/02_direct_residual_b1/t2_p0005/C_02_direct_residual_b1_T2-P0005_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/02_direct_residual_b1/t2_p0002/C_02_direct_residual_b1_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          432.0,
+          281.0,
+          479.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          502.0,
+          247.0,
+          532.0,
+          292.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/02_direct_residual_b1/t2_p0005/C_02_direct_residual_b1_T2-P0005_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          550.0,
+          311.0,
+          674.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          391.0,
+          296.0,
+          430.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          414.0,
+          272.0,
+          438.0,
+          306.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/02_direct_residual_b1/t2_p0002/C_02_direct_residual_b1_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          208.0,
+          350.0,
+          295.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          482.0,
+          355.0,
+          515.0,
+          410.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/02_direct_residual_b1/t2_p0005/C_02_direct_residual_b1_T2-P0005_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          242.0,
+          396.0,
+          317.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          416.0,
+          247.0,
+          441.0,
+          282.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          609.0,
+          295.0,
+          704.0,
+          419.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/03_vid2world/t2_p0002/C_03_vid2world_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/03_vid2world/t2_p0005/C_03_vid2world_T2-P0005_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/03_vid2world/t2_p0002/C_03_vid2world_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          432.0,
+          281.0,
+          479.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          502.0,
+          247.0,
+          532.0,
+          292.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/03_vid2world/t2_p0005/C_03_vid2world_T2-P0005_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          550.0,
+          311.0,
+          674.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          391.0,
+          296.0,
+          430.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          414.0,
+          272.0,
+          438.0,
+          306.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/03_vid2world/t2_p0002/C_03_vid2world_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          208.0,
+          350.0,
+          295.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          482.0,
+          355.0,
+          515.0,
+          410.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/03_vid2world/t2_p0005/C_03_vid2world_T2-P0005_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          242.0,
+          396.0,
+          317.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          416.0,
+          247.0,
+          441.0,
+          282.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          609.0,
+          295.0,
+          704.0,
+          419.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/04_multiworld/t2_p0002/C_04_multiworld_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/04_multiworld/t2_p0005/C_04_multiworld_T2-P0005_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/04_multiworld/t2_p0002/C_04_multiworld_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          432.0,
+          281.0,
+          479.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          502.0,
+          247.0,
+          532.0,
+          292.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/04_multiworld/t2_p0005/C_04_multiworld_T2-P0005_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          550.0,
+          311.0,
+          674.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          391.0,
+          296.0,
+          430.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          414.0,
+          272.0,
+          438.0,
+          306.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/04_multiworld/t2_p0002/C_04_multiworld_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          208.0,
+          350.0,
+          295.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          482.0,
+          355.0,
+          515.0,
+          410.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/04_multiworld/t2_p0005/C_04_multiworld_T2-P0005_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          242.0,
+          396.0,
+          317.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          416.0,
+          247.0,
+          441.0,
+          282.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          609.0,
+          295.0,
+          704.0,
+          419.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/05_solaris_minecraft/t2_p0002/C_05_solaris_minecraft_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/05_solaris_minecraft/t2_p0005/C_05_solaris_minecraft_T2-P0005_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/05_solaris_minecraft/t2_p0002/C_05_solaris_minecraft_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          432.0,
+          281.0,
+          479.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          502.0,
+          247.0,
+          532.0,
+          292.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/05_solaris_minecraft/t2_p0005/C_05_solaris_minecraft_T2-P0005_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          550.0,
+          311.0,
+          674.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          391.0,
+          296.0,
+          430.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          414.0,
+          272.0,
+          438.0,
+          306.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/05_solaris_minecraft/t2_p0002/C_05_solaris_minecraft_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          208.0,
+          350.0,
+          295.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          482.0,
+          355.0,
+          515.0,
+          410.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/05_solaris_minecraft/t2_p0005/C_05_solaris_minecraft_T2-P0005_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          242.0,
+          396.0,
+          317.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          416.0,
+          247.0,
+          441.0,
+          282.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          609.0,
+          295.0,
+          704.0,
+          419.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/06_ours/t2_p0002/C_06_ours_T2-P0002_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/06_ours/t2_p0005/C_06_ours_T2-P0005_t00s_f000_INPUT_REFERENCE.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/06_ours/t2_p0002/C_06_ours_T2-P0002_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          432.0,
+          281.0,
+          479.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          502.0,
+          247.0,
+          532.0,
+          292.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/06_ours/t2_p0005/C_06_ours_T2-P0005_t01s_f016.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          550.0,
+          311.0,
+          674.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          391.0,
+          296.0,
+          430.0,
+          356.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          414.0,
+          272.0,
+          438.0,
+          306.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/06_ours/t2_p0002/C_06_ours_T2-P0002_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          208.0,
+          350.0,
+          295.0,
+          480.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          482.0,
+          355.0,
+          515.0,
+          410.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/06_ours/t2_p0005/C_06_ours_T2-P0005_t02s_f032.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          360.0,
+          242.0,
+          396.0,
+          317.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          416.0,
+          247.0,
+          441.0,
+          282.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          609.0,
+          295.0,
+          704.0,
+          419.0
+        ],
+        "color": "#ffcc00",
+        "label": "",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/00_gt/t2_p0002/C_00_gt_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          139.0,
+          140.0,
+          248.0,
+          272.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          388.0,
+          213.0,
+          417.0,
+          255.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/00_gt/t2_p0005/C_00_gt_T2-P0005_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          122.0,
+          316.0,
+          266.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          338.0,
+          226.0,
+          368.0,
+          271.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/00_gt/t2_p0002/C_00_gt_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/00_gt/t2_p0005/C_00_gt_T2-P0005_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/00_gt/t2_p0002/C_00_gt_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/00_gt/t2_p0005/C_00_gt_T2-P0005_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          163.0,
+          207.0,
+          321.0,
+          480.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/01_lingbot_base/t2_p0002/C_01_lingbot_base_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          139.0,
+          140.0,
+          248.0,
+          272.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          388.0,
+          213.0,
+          417.0,
+          255.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/01_lingbot_base/t2_p0005/C_01_lingbot_base_T2-P0005_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          122.0,
+          316.0,
+          266.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          338.0,
+          226.0,
+          368.0,
+          271.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/01_lingbot_base/t2_p0002/C_01_lingbot_base_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/01_lingbot_base/t2_p0005/C_01_lingbot_base_T2-P0005_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/01_lingbot_base/t2_p0002/C_01_lingbot_base_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/01_lingbot_base/t2_p0005/C_01_lingbot_base_T2-P0005_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          163.0,
+          207.0,
+          321.0,
+          480.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/02_direct_residual_b1/t2_p0002/C_02_direct_residual_b1_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          139.0,
+          140.0,
+          248.0,
+          272.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          388.0,
+          213.0,
+          417.0,
+          255.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/02_direct_residual_b1/t2_p0005/C_02_direct_residual_b1_T2-P0005_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          122.0,
+          316.0,
+          266.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          338.0,
+          226.0,
+          368.0,
+          271.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/02_direct_residual_b1/t2_p0002/C_02_direct_residual_b1_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/02_direct_residual_b1/t2_p0005/C_02_direct_residual_b1_T2-P0005_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/02_direct_residual_b1/t2_p0002/C_02_direct_residual_b1_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/02_direct_residual_b1/t2_p0005/C_02_direct_residual_b1_T2-P0005_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          163.0,
+          207.0,
+          321.0,
+          480.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/03_vid2world/t2_p0002/C_03_vid2world_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          139.0,
+          140.0,
+          248.0,
+          272.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          388.0,
+          213.0,
+          417.0,
+          255.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/03_vid2world/t2_p0005/C_03_vid2world_T2-P0005_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          122.0,
+          316.0,
+          266.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          338.0,
+          226.0,
+          368.0,
+          271.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/03_vid2world/t2_p0002/C_03_vid2world_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/03_vid2world/t2_p0005/C_03_vid2world_T2-P0005_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/03_vid2world/t2_p0002/C_03_vid2world_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/03_vid2world/t2_p0005/C_03_vid2world_T2-P0005_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          163.0,
+          207.0,
+          321.0,
+          480.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/04_multiworld/t2_p0002/C_04_multiworld_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          139.0,
+          140.0,
+          248.0,
+          272.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          388.0,
+          213.0,
+          417.0,
+          255.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/04_multiworld/t2_p0005/C_04_multiworld_T2-P0005_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          122.0,
+          316.0,
+          266.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          338.0,
+          226.0,
+          368.0,
+          271.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/04_multiworld/t2_p0002/C_04_multiworld_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/04_multiworld/t2_p0005/C_04_multiworld_T2-P0005_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/04_multiworld/t2_p0002/C_04_multiworld_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/04_multiworld/t2_p0005/C_04_multiworld_T2-P0005_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          163.0,
+          207.0,
+          321.0,
+          480.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/05_solaris_minecraft/t2_p0002/C_05_solaris_minecraft_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          139.0,
+          140.0,
+          248.0,
+          272.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          388.0,
+          213.0,
+          417.0,
+          255.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/05_solaris_minecraft/t2_p0005/C_05_solaris_minecraft_T2-P0005_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          122.0,
+          316.0,
+          266.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          338.0,
+          226.0,
+          368.0,
+          271.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/05_solaris_minecraft/t2_p0002/C_05_solaris_minecraft_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/05_solaris_minecraft/t2_p0005/C_05_solaris_minecraft_T2-P0005_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/05_solaris_minecraft/t2_p0002/C_05_solaris_minecraft_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/05_solaris_minecraft/t2_p0005/C_05_solaris_minecraft_T2-P0005_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          163.0,
+          207.0,
+          321.0,
+          480.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/06_ours/t2_p0002/C_06_ours_T2-P0002_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          139.0,
+          140.0,
+          248.0,
+          272.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          388.0,
+          213.0,
+          417.0,
+          255.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/06_ours/t2_p0005/C_06_ours_T2-P0005_t03s_f048.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          210.0,
+          122.0,
+          316.0,
+          266.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      },
+      {
+        "xyxy": [
+          338.0,
+          226.0,
+          368.0,
+          271.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/06_ours/t2_p0002/C_06_ours_T2-P0002_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/06_ours/t2_p0005/C_06_ours_T2-P0005_t04s_f064.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/06_ours/t2_p0002/C_06_ours_T2-P0002_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  },
+  {
+    "frame_path": "C_large_camera_turns/frames/06_ours/t2_p0005/C_06_ours_T2-P0005_t05s_f080.png",
+    "coordinate_size": [
+      832,
+      480
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          163.0,
+          207.0,
+          321.0,
+          480.0
+        ],
+        "label": "",
+        "color": "#ffcc00",
+        "kind": "gt_visible_person_region"
+      }
+    ],
+    "roi": null,
+    "note": "GT/state reference regions shared across method rows; not predicted detections."
+  }
+]

@@ -125,3 +125,9 @@ split 未确认；当前作为定性展示，不据此宣称 held-out 泛化。
 ## GT / Base / Ours 定性对比（2026-09-14）
 
 新增 [B带框视频与对比图表](qualitative-20260914/index.html)，详情见[素材说明](qualitative-20260914/README.md)。原04–07成片保留。
+
+## ABC 七行外部模型对比原图（0–5秒）
+
+[在线逐帧查看](qualitative-abc-7methods-20260914/index.html) · [素材说明与目录](qualitative-abc-7methods-20260914/README.md) · [模型/视角/时间索引CSV](qualitative-abc-7methods-20260914/manifest.csv) · [完整ZIP下载](https://github.com/ZhengqiSun/multiview-world-model/releases/tag/qualitative-abc-20260914-v1)。
+
+包含252张无框原帧、3张完整高清figure及每组地图/相机位置和yaw曲线（共6张）。七行依次为GT、LingBot Base、Direct Residual B1、Vid2World、MultiWorld、Minecraft Solaris、Ours，统一0、1、2、3、4、5秒；0秒为共享GT输入参考。文件按组别、模型、视角、时间命名。此目录保留七行扩展比较，现有三方法展示及04–07成片保留。
