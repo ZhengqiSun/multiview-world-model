@@ -4,26 +4,27 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#0b0d0c">
-  <meta name="description" content="A multi-view world model that generates coherent observations of one shared, evolving world.">
-  <meta property="og:title" content="Multiview World Model">
-  <meta property="og:description" content="Many viewpoints. One evolving reality.">
+  <meta name="description" content="SyncWorld: Many Views, One World. A shared world state generates situated observations for multiple observers.">
+  <meta property="og:title" content="SyncWorld: Many Views, One World">
+  <meta property="og:description" content="One shared world, independently rendered views.">
   <meta property="og:type" content="website">
-  <title>Multiview World Model — One World, Many Views</title>
+  <title>SyncWorld: Many Views, One World</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="nav" aria-label="Primary navigation">
-    <a class="wordmark" href="#top" aria-label="Multiview World Model home">
+    <a class="wordmark" href="#top" aria-label="SyncWorld home">
       <span class="mark" aria-hidden="true"><i></i><i></i><i></i></span>
-      <span>MVWM</span>
+      <span>SyncWorld</span>
     </a>
     <nav>
       <a href="#world">The world</a>
-      <a href="#selected">Additional demos</a>
+      <a href="#selected">Selected demos</a>
       <a href="#demos">Paired demos</a>
       <a href="#approach">Approach</a>
     </nav>
-    <a class="nav-cta" href="#selected">Watch latest demos <span aria-hidden="true">↘</span></a>
+    <a class="nav-cta" href="#selected">Watch demos <span aria-hidden="true">↘</span></a>
   </header>
 
   <main id="top">
@@ -34,8 +35,8 @@
       <div class="hero-shade"></div>
       <div class="hero-grid" aria-hidden="true"></div>
       <div class="hero-content">
-        <p class="kicker light">Research release · 2026</p>
-        <h1 id="hero-title">Many viewpoints.<br><em>One evolving reality.</em></h1>
+        <p class="kicker light">SyncWorld · Research release 2026</p>
+        <h1 id="hero-title">Many views.<br><em>One world.</em></h1>
         <p class="hero-copy">A world model that keeps every observer grounded in the same scene, the same moment, and the same unfolding world.</p>
       </div>
       <div class="hero-foot">
@@ -62,7 +63,7 @@
       <div class="feature-heading reveal">
         <p class="kicker">New · Same scene · Ten views</p>
         <h2>Same world,<br>ten witnesses.</h2>
-        <p>Ten first-person observers are generated from one held-out scene, one moment, and one shared temporal seed. The viewpoints change. The geometry stays together.</p>
+        <p>Ten first-person observers are generated from one held-out scene and a shared world trajectory. Compare the same unfolding scene from ten positions.</p>
         <div class="feature-meta" aria-label="Demo details">
           <span>Scene 01 · held-out</span>
           <span>10 alive observers</span>
@@ -71,36 +72,37 @@
         </div>
       </div>
       <figure class="wide-film reveal">
-        <video autoplay muted loop playsinline preload="metadata">
+        <video controls autoplay muted loop playsinline preload="metadata" aria-label="Ten synchronized views of one held-out scene">
           <source src="assets/video/same-scene-ten-views.mp4" type="video/mp4">
         </video>
-        <figcaption><span>01 / Shared-scene generation</span><span>Ten situated observers · one synchronized event</span></figcaption>
-      </figure>
-    </section>
-
-    <section class="ten-view-feature" aria-label="Self-advancing world demo">
-      <div class="feature-heading reveal">
-        <p class="kicker">New · July 2026 — Ten views · Ten seconds</p>
-        <h2>The world<br>advances on its own.</h2>
-        <p>Here the model is given only a single observed instant. The world state is simulated forward from that moment — no future footage is consumed — and ten first-person views are generated from the same unfolding world, staying synchronized for the full ten seconds.</p>
-      </div>
-      <figure class="wide-film reveal">
-        <video autoplay muted loop playsinline preload="metadata">
-          <source src="assets/video/native-dynamics-ten-views.mp4" type="video/mp4">
-        </video>
-        <figcaption><span>02 / Inference-time dynamics</span><span>One simulated world · Ten situated observers</span></figcaption>
+        <figcaption><span>01 / Shared-scene generation</span><span>Ten situated observers · one synchronized event</span><a class="ten-view-open" href="assets/video/same-scene-ten-views.mp4">Open full video ↗</a></figcaption>
       </figure>
     </section>
 
     <section class="selected-section section-pad" id="selected" aria-labelledby="selected-title">
-      <div class="section-index reveal"><span>02</span><span>Additional demonstrations</span></div>
+      <div class="section-index reveal"><span>02</span><span>Selected demonstrations</span></div>
       <div class="selected-intro reveal">
         <div>
           <p class="kicker">Selected demos · September 2026</p>
-          <h2 id="selected-title">More views.</h2>
+          <h2 id="selected-title">Watch the world.</h2>
         </div>
-        <p>A new side-by-side comparison joins four short studies of shared space, player interaction, visibility, and motion across views.</p>
+        <p>Start with the ten-observer rollout from the paper, then compare two views against ground truth. Four shorter clips show scene layout, visibility, motion, and interaction.</p>
       </div>
+      <article class="selected-ten-view reveal" aria-labelledby="selected-ten-view-title">
+        <div class="selected-ten-view-heading">
+          <div>
+            <p class="kicker">Paper result · Native dynamics</p>
+            <h3 id="selected-ten-view-title">One world.<br>Ten observers.</h3>
+          </div>
+          <p>A native shared trajectory advances under bot actions. Ten first-person observers follow that same world state, each with its own camera and generation history. All ten views run together for ten seconds.</p>
+        </div>
+        <figure class="wide-film">
+          <video controls autoplay muted loop playsinline preload="metadata" aria-label="Ten synchronized first-person views of one native world trajectory">
+            <source src="assets/video/native-dynamics-ten-views.mp4" type="video/mp4">
+          </video>
+          <figcaption><span>Native world rollout · 10 observers</span><span>16 fps · approximately 10 seconds</span><a class="ten-view-open" href="assets/video/native-dynamics-ten-views.mp4">Open full video ↗</a></figcaption>
+        </figure>
+      </article>
       <article class="selected-update reveal" aria-labelledby="selected-update-title">
         <div class="selected-update-film">
           <video controls playsinline preload="metadata" poster="assets/video/selected-20260905/qualitative-20260914/B-block-1.png" aria-label="Ground truth, Base, and SyncWorld in two synchronized views">
@@ -123,24 +125,28 @@
           <video autoplay muted loop playsinline preload="metadata"><source src="assets/video/selected-20260905/04-four-view-scene.mp4" type="video/mp4"></video>
           <div class="selected-shade"></div>
           <div class="selected-card-copy"><span class="selected-number">04</span><p class="selected-tag">Scene consistency</p><h3>Four views.<br>One layout.</h3><p class="selected-meta">Four synchronized observers · 5 sec</p></div>
-        </article>
-        <article class="selected-card reveal">
-          <video autoplay muted loop playsinline preload="metadata"><source src="assets/video/selected-20260905/07-dynamic-camera-three-views.mp4" type="video/mp4"></video>
-          <div class="selected-shade"></div>
-          <div class="selected-card-copy"><span class="selected-number">07</span><p class="selected-tag">Multiview motion</p><h3>Dynamic camera,<br>shared motion.</h3><p class="selected-meta">Three synchronized observers · 5 sec</p></div>
+          <a class="selected-card-link" href="assets/video/selected-20260905/04-four-view-scene.mp4" aria-label="Open full four-view scene video"></a>
         </article>
         <article class="selected-card reveal">
           <video autoplay muted loop playsinline preload="metadata"><source src="assets/video/selected-20260905/06-player-reveal-three-views.mp4" type="video/mp4"></video>
           <div class="selected-shade"></div>
-          <div class="selected-card-copy"><span class="selected-number">06</span><p class="selected-tag">Visibility &amp; position</p><h3>From unseen<br>to seen.</h3><p class="selected-meta">Three views · 5 sec</p></div>
+          <div class="selected-card-copy"><span class="selected-number">06</span><p class="selected-tag">Visibility &amp; position</p><h3>Turn to reveal<br>the players.</h3><p class="selected-meta">Three synchronized observers · 5 sec</p></div>
+          <a class="selected-card-link" href="assets/video/selected-20260905/06-player-reveal-three-views.mp4" aria-label="Open full three-view visibility video"></a>
         </article>
-        <article class="selected-card selected-card-wide selected-card-interaction reveal">
+        <article class="selected-card selected-card-wide reveal">
+          <video autoplay muted loop playsinline preload="metadata"><source src="assets/video/selected-20260905/07-dynamic-camera-three-views.mp4" type="video/mp4"></video>
+          <div class="selected-shade"></div>
+          <div class="selected-card-copy"><span class="selected-number">07</span><p class="selected-tag">Multiview motion</p><h3>Moving cameras.<br>Shared scene.</h3><p class="selected-meta">Three synchronized observers · 5 sec</p></div>
+          <a class="selected-card-link" href="assets/video/selected-20260905/07-dynamic-camera-three-views.mp4" aria-label="Open full three-view motion video"></a>
+        </article>
+        <article class="selected-card selected-card-interaction reveal">
           <video autoplay muted loop playsinline preload="metadata"><source src="assets/video/selected-20260905/05-player-tracking-and-firing.mp4" type="video/mp4"></video>
           <div class="selected-shade"></div>
           <div class="selected-card-copy"><span class="selected-number">05</span><p class="selected-tag">Interaction event</p><h3>Track the player.<br>Follow the action.</h3><p class="selected-meta">Single observer · 10 sec</p></div>
+          <a class="selected-card-link" href="assets/video/selected-20260905/05-player-tracking-and-firing.mp4" aria-label="Open full single-view interaction video"></a>
         </article>
       </div>
-      <p class="selected-note reveal">The GT / Base / Ours comparison was added on 2026-09-14; groups 04–07 are from 2026-09-05. Checkpoint, seed, split, and viewing notes live in the <a href="assets/video/selected-20260905/README.md">asset archive</a> and <a href="assets/video/selected-20260905/qualitative-20260914/README.md">comparison notes</a>.</p>
+      <p class="selected-note reveal">The ten-observer clip shows the native rollout described in the paper. The comparison was added on 2026-09-14; groups 04–07 are from 2026-09-05 and use different historical checkpoints. Clip 05 is a single-view interaction example. Checkpoint, seed, split, and viewing notes: <a href="assets/video/selected-20260905/README.md">asset archive</a> and <a href="assets/video/selected-20260905/qualitative-20260914/README.md">comparison notes</a>.</p>
     </section>
 
     <section class="demo-section section-pad" id="demos">
@@ -203,7 +209,7 @@
       <video autoplay muted loop playsinline preload="metadata"><source src="assets/video/same-scene-ten-views.mp4" type="video/mp4"></video>
       <div class="closing-shade"></div>
       <div class="closing-copy reveal">
-        <p class="kicker light">Multiview World Model</p>
+        <p class="kicker light">SyncWorld: Many Views, One World</p>
         <h2>One world is enough.<br><em>Everyone can enter.</em></h2>
         <a href="#top">Return to the beginning <span aria-hidden="true">↑</span></a>
       </div>
@@ -211,7 +217,7 @@
   </main>
 
   <footer>
-    <a class="wordmark" href="#top"><span class="mark" aria-hidden="true"><i></i><i></i><i></i></span><span>MVWM</span></a>
+    <a class="wordmark" href="#top"><span class="mark" aria-hidden="true"><i></i><i></i><i></i></span><span>SyncWorld</span></a>
     <p>Multi-view generative world modeling.</p>
     <p>Research release · 2026</p>
   </footer>

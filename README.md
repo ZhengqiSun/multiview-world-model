@@ -1,8 +1,8 @@
-# Multiview World Model
+# SyncWorld: Many Views, One World
 
-Many viewpoints. One evolving reality.
+Many views. One world.
 
-This repository hosts the public research page and selected demonstrations for a multi-view generative world model. The page presents the project at a conceptual level: a shared world state, situated observations, and persistent generation through time.
+This repository hosts the public research page and selected demonstrations for SyncWorld, a multi-view generative world model. The page presents the project at a conceptual level: a shared world state, situated observations, and persistent generation through time.
 
 ## View locally
 
@@ -21,14 +21,20 @@ scene. The source stitched render contained a duplicated window-seam frame;
 the published asset removes that seam so the browser video has an exact
 10-second duration.
 
+The paper's native ten-observer rollout is `assets/video/native-dynamics-ten-views.mp4`.
+It is featured at the start of the [Selected demonstrations](index.html#selected)
+section so direct visitors to the demo anchor see the ten-view result. The
+held-out Scene 01 film remains in the earlier full-width feature and hero.
+
 ## Additional selected demos
 
-The existing [Additional demonstrations](index.html#selected) section now opens with the September 14 [GT / Base / Ours two-view video](assets/video/selected-20260905/qualitative-20260914/B-GT-Base-Ours-boxed.mp4). The [A/B/C comparison gallery](assets/video/selected-20260905/qualitative-20260914/index.html) and [source-frame gallery](assets/video/selected-20260905/qualitative-abc-7methods-20260914/index.html) provide the full figures and original frames.
+The [Selected demonstrations](index.html#selected) section places the native
+ten-view rollout first, followed by the September 14 [GT / Base / Ours two-view video](assets/video/selected-20260905/qualitative-20260914/B-GT-Base-Ours-boxed.mp4). The [A/B/C comparison gallery](assets/video/selected-20260905/qualitative-20260914/index.html) and [source-frame gallery](assets/video/selected-20260905/qualitative-abc-7methods-20260914/index.html) provide the full figures and original frames.
 
 Groups **04–07** are archived under
 [`assets/video/selected-20260905/`](assets/video/selected-20260905/README.md).
 The folder includes the four native-resolution review composites, the author's
 original selection notes, viewing guidance, view ordering, and provenance.
-The four clips are presented on the homepage in a compact “Additional demonstrations”
-grid. The paired Base comparison requested for group 06 is not included in
-this batch.
+The four clips are presented on the homepage in a compact grid: 04, 06, and
+07 show multiple views, while 05 is a single-view interaction example. The
+paired Base comparison requested for group 06 is not included in this batch.
