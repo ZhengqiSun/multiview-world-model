@@ -18,12 +18,12 @@
       <span>MVWM</span>
     </a>
     <nav>
-      <a href="#latest">Latest comparisons</a>
-      <a href="#ten-views">Ten views</a>
-      <a href="#selected">More demos</a>
+      <a href="#world">The world</a>
+      <a href="#selected">Additional demos</a>
+      <a href="#demos">Paired demos</a>
       <a href="#approach">Approach</a>
     </nav>
-    <a class="nav-cta" href="#latest">Watch latest demos <span aria-hidden="true">↘</span></a>
+    <a class="nav-cta" href="#selected">Watch latest demos <span aria-hidden="true">↘</span></a>
   </header>
 
   <main id="top">
@@ -37,69 +37,16 @@
         <p class="kicker light">Research release · 2026</p>
         <h1 id="hero-title">Many viewpoints.<br><em>One evolving reality.</em></h1>
         <p class="hero-copy">A world model that keeps every observer grounded in the same scene, the same moment, and the same unfolding world.</p>
-        <a class="hero-link" href="#latest">Explore the latest comparisons <span aria-hidden="true">↗</span></a>
       </div>
       <div class="hero-foot">
         <span>10 synchronized viewpoints</span>
         <span class="live"><i></i> Generated world</span>
-        <a href="#latest">Explore <span aria-hidden="true">↓</span></a>
-      </div>
-    </section>
-
-    <section class="latest-section section-pad" id="latest" aria-labelledby="latest-title">
-      <div class="section-index reveal"><span>01</span><span>Latest qualitative evidence</span></div>
-      <div class="latest-intro reveal">
-        <div>
-          <p class="kicker">September 2026 · New on the project page</p>
-          <h2 id="latest-title">The same moment.<br><em>Three renderings.</em></h2>
-        </div>
-        <p>Compare the recorded scene, the camera-conditioned base model, and SyncWorld at matching times and viewpoints. These selected examples make the visual differences easy to inspect.</p>
-      </div>
-
-      <div class="latest-feature reveal">
-        <div class="latest-video-stage">
-          <video controls playsinline preload="metadata" poster="assets/video/selected-20260905/qualitative-20260914/B-block-1.png" aria-label="Ground truth, Base, and SyncWorld comparison across two synchronized views">
-            <source src="assets/video/selected-20260905/qualitative-20260914/B-GT-Base-Ours-boxed.mp4" type="video/mp4">
-          </video>
-          <div class="latest-video-caption"><span>Case B / Player position and visibility</span><span>GT · Base · Ours / 2 views / 5 sec</span></div>
-        </div>
-        <div class="latest-feature-copy">
-          <span class="latest-feature-index">01 / Featured film</span>
-          <h3>Follow one player<br>through two views.</h3>
-          <p>The recorded target stays still while the observers turn. Watch how its position and visibility change in the ground truth, Base, and SyncWorld rows.</p>
-          <p class="latest-caveat">Orange boxes mark a shared reference region from the recorded state. They are not model detections or proof of identity tracking. The opening frame is the common input image.</p>
-          <a href="assets/video/selected-20260905/qualitative-20260914/index.html">Open all annotated comparisons <span aria-hidden="true">↗</span></a>
-        </div>
-      </div>
-
-      <div class="comparison-viewer reveal" id="comparison" aria-labelledby="comparison-title">
-        <div class="comparison-heading">
-          <div><p class="kicker">Inspect the original frames</p><h3 id="comparison-title">Compare frame by frame.</h3></div>
-          <p>Choose a scene, second, and observer. Every row uses the same selection; images are shown without the figure overlays.</p>
-        </div>
-        <div class="comparison-controls" aria-label="Qualitative comparison controls">
-          <div class="control-group"><span class="control-label">Scene</span><div class="control-buttons" data-control="case">
-            <button type="button" data-value="A">A · Map</button><button type="button" data-value="B" aria-pressed="true">B · Player</button><button type="button" data-value="C">C · Camera</button>
-          </div></div>
-          <div class="control-group"><span class="control-label">Time</span><div class="control-buttons" data-control="time">
-            <button type="button" data-value="1">1s</button><button type="button" data-value="2">2s</button><button type="button" data-value="3" aria-pressed="true">3s</button><button type="button" data-value="4">4s</button><button type="button" data-value="5">5s</button>
-          </div></div>
-          <div class="control-group"><span class="control-label">Observer</span><div class="control-buttons" data-control="view">
-            <button type="button" data-value="0">View 1</button><button type="button" data-value="1" aria-pressed="true">View 2</button>
-          </div></div>
-        </div>
-        <p class="comparison-context" id="comparison-context" aria-live="polite">B · Player visibility / View T3/P0008 / 3 seconds</p>
-        <div class="comparison-grid">
-          <figure><figcaption><span>01</span> Ground truth</figcaption><a data-frame="gt" href="assets/video/selected-20260905/qualitative-abc-7methods-20260914/B_player_visibility/frames/00_gt/t3_p0008/B_00_gt_T3-P0008_t03s_f048.png" target="_blank" rel="noopener"><img src="assets/video/selected-20260905/qualitative-abc-7methods-20260914/B_player_visibility/frames/00_gt/t3_p0008/B_00_gt_T3-P0008_t03s_f048.png" alt="Recorded reference at 3 seconds from B scene, second observer" loading="lazy"></a></figure>
-          <figure><figcaption><span>02</span> LingBot-World Base</figcaption><a data-frame="base" href="assets/video/selected-20260905/qualitative-abc-7methods-20260914/B_player_visibility/frames/01_lingbot_base/t3_p0008/B_01_lingbot_base_T3-P0008_t03s_f048.png" target="_blank" rel="noopener"><img src="assets/video/selected-20260905/qualitative-abc-7methods-20260914/B_player_visibility/frames/01_lingbot_base/t3_p0008/B_01_lingbot_base_T3-P0008_t03s_f048.png" alt="Base model at 3 seconds from B scene, second observer" loading="lazy"></a></figure>
-          <figure class="comparison-ours"><figcaption><span>03</span> SyncWorld</figcaption><a data-frame="ours" href="assets/video/selected-20260905/qualitative-abc-7methods-20260914/B_player_visibility/frames/06_ours/t3_p0008/B_06_ours_T3-P0008_t03s_f048.png" target="_blank" rel="noopener"><img src="assets/video/selected-20260905/qualitative-abc-7methods-20260914/B_player_visibility/frames/06_ours/t3_p0008/B_06_ours_T3-P0008_t03s_f048.png" alt="SyncWorld at 3 seconds from B scene, second observer" loading="lazy"></a></figure>
-        </div>
-        <div class="comparison-foot"><p>Selected examples, not aggregate test performance. Base and SyncWorld have different conditioning; 0s is a shared input reference and is excluded from the selector.</p><div><a id="comparison-figure" href="assets/video/selected-20260905/qualitative-20260914/B-comparison.png" target="_blank" rel="noopener">Full annotated figure ↗</a><a href="assets/video/selected-20260905/qualitative-abc-7methods-20260914/index.html">Seven-row source gallery ↗</a></div></div>
+        <a href="#world">Explore <span aria-hidden="true">↓</span></a>
       </div>
     </section>
 
     <section class="manifesto section-pad" id="world">
-      <div class="section-index reveal"><span>02</span><span>The shared world</span></div>
+      <div class="section-index reveal"><span>01</span><span>The shared world</span></div>
       <div class="manifesto-copy reveal">
         <p class="display">A world is not a collection of videos. It is a <em>single state</em> that remains true from wherever you stand.</p>
         <p class="support">Traditional video models imagine one camera at a time. Our model reasons about a shared environment, then generates each observation as a view into that same evolving reality.</p>
@@ -111,7 +58,7 @@
       </div>
     </section>
 
-    <section class="ten-view-feature" id="ten-views" aria-label="Ten-view generation demo">
+    <section class="ten-view-feature" aria-label="Ten-view generation demo">
       <div class="feature-heading reveal">
         <p class="kicker">New · Same scene · Ten views</p>
         <h2>Same world,<br>ten witnesses.</h2>
@@ -146,14 +93,31 @@
     </section>
 
     <section class="selected-section section-pad" id="selected" aria-labelledby="selected-title">
-      <div class="section-index reveal"><span>03</span><span>Additional demonstrations</span></div>
+      <div class="section-index reveal"><span>02</span><span>Additional demonstrations</span></div>
       <div class="selected-intro reveal">
         <div>
-          <p class="kicker">Selected demos · Groups 04–07</p>
+          <p class="kicker">Selected demos · September 2026</p>
           <h2 id="selected-title">More views.</h2>
         </div>
-        <p>Four short studies from the September 5 upload, arranged by the question each clip helps you inspect: shared space, player interaction, visibility, and motion across views.</p>
+        <p>A new side-by-side comparison joins four short studies of shared space, player interaction, visibility, and motion across views.</p>
       </div>
+      <article class="selected-update reveal" aria-labelledby="selected-update-title">
+        <div class="selected-update-film">
+          <video controls playsinline preload="metadata" poster="assets/video/selected-20260905/qualitative-20260914/B-block-1.png" aria-label="Ground truth, Base, and SyncWorld in two synchronized views">
+            <source src="assets/video/selected-20260905/qualitative-20260914/B-GT-Base-Ours-boxed.mp4" type="video/mp4">
+          </video>
+        </div>
+        <div class="selected-update-copy">
+          <p class="selected-tag">New comparison · GT / Base / Ours</p>
+          <h3 id="selected-update-title">One player.<br>Two viewpoints.</h3>
+          <p>Watch the same recorded target from two synchronized observers, with the ground truth, camera-conditioned Base, and SyncWorld shown together.</p>
+          <p class="selected-update-note">Orange boxes are fixed reference regions, not model detections. The first frame is the shared input; this selected example does not represent average test-set performance.</p>
+          <div class="selected-update-links">
+            <a href="assets/video/selected-20260905/qualitative-20260914/index.html">Explore A/B/C comparisons <span aria-hidden="true">↗</span></a>
+            <a href="assets/video/selected-20260905/qualitative-abc-7methods-20260914/index.html">View source frames <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </article>
       <div class="selected-grid">
         <article class="selected-card selected-card-wide reveal">
           <video autoplay muted loop playsinline preload="metadata"><source src="assets/video/selected-20260905/04-four-view-scene.mp4" type="video/mp4"></video>
@@ -176,11 +140,11 @@
           <div class="selected-card-copy"><span class="selected-number">05</span><p class="selected-tag">Interaction event</p><h3>Track the player.<br>Follow the action.</h3><p class="selected-meta">Single observer · 10 sec</p></div>
         </article>
       </div>
-      <p class="selected-note reveal">Additional demonstrations from the 2026-09-05 upload. Checkpoint, seed, split, and viewing notes live in the <a href="assets/video/selected-20260905/README.md">asset archive</a>.</p>
+      <p class="selected-note reveal">The GT / Base / Ours comparison was added on 2026-09-14; groups 04–07 are from 2026-09-05. Checkpoint, seed, split, and viewing notes live in the <a href="assets/video/selected-20260905/README.md">asset archive</a> and <a href="assets/video/selected-20260905/qualitative-20260914/README.md">comparison notes</a>.</p>
     </section>
 
     <section class="demo-section section-pad" id="demos">
-      <div class="section-index reveal"><span>04</span><span>Evidence in motion</span></div>
+      <div class="section-index reveal"><span>03</span><span>Evidence in motion</span></div>
       <div class="demo-intro reveal">
         <h2>One event.<br>Two witnesses.</h2>
         <p>This paired stream is generated from different viewpoints of the same scene. Play either side: both remain synchronized.</p>
@@ -217,7 +181,7 @@
     </section>
 
     <section class="approach section-pad" id="approach">
-      <div class="section-index reveal"><span>05</span><span>The idea</span></div>
+      <div class="section-index reveal"><span>04</span><span>The idea</span></div>
       <div class="approach-title reveal">
         <p class="kicker">World first. Views second.</p>
         <h2>Separate what happened<br>from who is looking.</h2>

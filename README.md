@@ -12,11 +12,7 @@ Serve the directory with any static web server and open `index.html`.
 
 The live page is published with GitHub Pages.
 
-## Latest qualitative comparisons
-
-The homepage now features the existing [GT / Base / Ours two-view video](assets/video/selected-20260905/qualitative-20260914/B-GT-Base-Ours-boxed.mp4) and a frame-by-frame viewer for cases A, B, and C. The viewer reads the audited paths from the [ABC source manifest](assets/video/selected-20260905/qualitative-abc-7methods-20260914/manifest.json); select a scene, second, and observer to compare ground truth, Base, and SyncWorld at the same point. The [annotated figure gallery](assets/video/selected-20260905/qualitative-20260914/index.html) and [seven-row source gallery](assets/video/selected-20260905/qualitative-abc-7methods-20260914/index.html) remain available for closer inspection. These are selected examples, not aggregate results.
-
-## Ten-view featured demo
+## Current featured demo
 
 The main ten-view film is `assets/video/same-scene-ten-views.mp4`. It is the
 page-ready cut of the Scene 01 held-out multiscene run: 160 frames, 16 fps,
@@ -25,7 +21,9 @@ scene. The source stitched render contained a duplicated window-seam frame;
 the published asset removes that seam so the browser video has an exact
 10-second duration.
 
-## Additional selected demos (2026-09-05)
+## Additional selected demos
+
+The existing [Additional demonstrations](index.html#selected) section now opens with the September 14 [GT / Base / Ours two-view video](assets/video/selected-20260905/qualitative-20260914/B-GT-Base-Ours-boxed.mp4). The [A/B/C comparison gallery](assets/video/selected-20260905/qualitative-20260914/index.html) and [source-frame gallery](assets/video/selected-20260905/qualitative-abc-7methods-20260914/index.html) provide the full figures and original frames.
 
 Groups **04–07** are archived under
 [`assets/video/selected-20260905/`](assets/video/selected-20260905/README.md).
